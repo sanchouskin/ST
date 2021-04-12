@@ -31,11 +31,15 @@ color:#11999E;}
   
   color:#11999E;}
 
-.hobbies li{
+.hobbies p{
 font-size:1.3rem;
 }
 
 .contact li{
+font-size:1.3rem;
+}
+
+.contact label{
 font-size:1.3rem;
 }
 
