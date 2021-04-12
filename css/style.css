@@ -9,12 +9,13 @@ border-top: 5px dotted grey;
 width:5%
 }
 
-h1 {
-
+tbody h1 {
+font-size:3rem;
   color:#66BFBF;
 }
 h3 {
   color: #11999E;
+  font-size:2rem;
 }
 .end{
 color:#11999E;}
